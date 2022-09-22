@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ethekwini-ChatBot-NetworkPing", "Ethekwini-ChatBot-NetworkPing\Ethekwini-ChatBot-NetworkPing.csproj", "{9CE8B02D-EB71-440B-9B35-5A7E1AA5FDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE8B02D-EB71-440B-9B35-5A7E1AA5FDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE8B02D-EB71-440B-9B35-5A7E1AA5FDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE8B02D-EB71-440B-9B35-5A7E1AA5FDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE8B02D-EB71-440B-9B35-5A7E1AA5FDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9553EE-7789-442A-A3C5-BBC1909A9E52}
+	EndGlobalSection
+EndGlobal

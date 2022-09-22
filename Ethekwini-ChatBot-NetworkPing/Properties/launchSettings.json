@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Ethekwini_ChatBot_NetworkPing": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

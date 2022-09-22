@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>dotnet-Ethekwini_ChatBot_NetworkPing-F4FF6349-D56D-4ABD-9E57-88B3A1483208</UserSecretsId>
+    <RootNamespace>Ethekwini_ChatBot_NetworkPing</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Logfiles\" />
+  </ItemGroup>
+</Project>
